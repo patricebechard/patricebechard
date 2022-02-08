@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![github stats](https://github-readme-stats.vercel.app/api?username=patricebechard&show_icons=true)
+![github stats](https://github-readme-stats.vercel.app/api?username=patricebechard&show_icons=true&count_private=true)
   
   **📫 Reach me at:**<br>
 
