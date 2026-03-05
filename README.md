@@ -9,7 +9,7 @@ Applied Research Scientist at [ServiceNow](https://www.servicenow.com/), working
 - **ColMate** — Multimodal document retrieval via contrastive late interaction *(EMNLP Industry 2025)*
 - **Reducing Hallucination in Structured Outputs via RAG** *(NAACL Industry 2024)*
 - **StarFlow** — Generating structured workflows from sketch images *(EACL 2026)*
-- **Fine-Tune an SLM or Prompt an LLM?** — Low-code workflow generation *(KDD 2025 Workshop on Structured Knowledge for LLMs)*
+- **Fine-Tune an SLM or Prompt an LLM?** — Low-code workflow generation *(KDD 2025 SKnowLLM Workshop)*
 - **Just-in-time Episodic Feedback Hinter** — Improving LLM agent adaptation *(2025)*
 
 Full list on [Google Scholar](https://scholar.google.com/citations?user=O-YzTloAAAAJ)
@@ -17,7 +17,7 @@ Full list on [Google Scholar](https://scholar.google.com/citations?user=O-YzTloA
 ### Connect
 
 [![Website](https://img.shields.io/badge/patricebechard.com-000?style=flat-square&logo=safari&logoColor=white)](https://patricebechard.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/patricebechard/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0iI2ZmZiIgZD0iTTIwLjQ0NyAyMC40NTJoLTMuNTU0di01LjU2OWMwLTEuMzI4LS4wMjctMy4wMzctMS44NTItMy4wMzctMS44NTMgMC0yLjEzNiAxLjQ0NS0yLjEzNiAyLjkzOXY1LjY2N0g5LjM1MVY5aDMuNDE0djEuNTYxaC4wNDZjLjQ3Ny0uOSAxLjYzNy0xLjg1IDMuMzctMS44NSAzLjYwMSAwIDQuMjY3IDIuMzcgNC4yNjcgNS40NTV2Ni4yODZ6TTUuMzM3IDcuNDMzYTIuMDYyIDIuMDYyIDAgMCAxLTIuMDYzLTIuMDY1IDIuMDY0IDIuMDY0IDAgMSAxIDIuMDYzIDIuMDY1em0xLjc4MiAxMy4wMTlIMy41NTVWOWgzLjU2NHYxMS40NTJ6TTIyLjIyNSAwSDEuNzcxQy43OTIgMCAwIC43NzQgMCAxLjcyOXYyMC41NDJDMCAyMy4yMjcuNzkyIDI0IDEuNzcxIDI0aDIwLjQ1MUMyMy4yIDI0IDI0IDIzLjIyNyAyNCAyMi4yNzFWMS43MjlDMjQgLjc3NCAyMy4yIDAgMjIuMjIyIDBoLjAwM3oiLz48L3N2Zz4=&logoColor=white)](https://www.linkedin.com/in/patricebechard/)
 [![Google Scholar](https://img.shields.io/badge/Scholar-4285F4?style=flat-square&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=O-YzTloAAAAJ)
 [![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)](https://huggingface.co/patricebechard)
 [![Bluesky](https://img.shields.io/badge/Bluesky-0085FF?style=flat-square&logo=bluesky&logoColor=white)](https://bsky.app/profile/patricebechard.bsky.social)
