@@ -1,18 +1,20 @@
 # Hey, I'm Patrice 👋
 
-Applied Research Scientist at [ServiceNow](https://www.servicenow.com/), working on AI agents for enterprise automation. I build systems that let large language models interact with complex business workflows — from text-to-workflow generation to IT service management auto-resolution.
+Applied Research Scientist at [ServiceNow](https://www.servicenow.com/), working on AI agents for enterprise automation. I build systems that let large language models interact with complex business workflows, from text-to-workflow generation to IT service management auto-resolution.
 
-**Background:** Physicist turned ML researcher. MSc in Machine Learning from [Mila](https://mila.quebec/), BSc in Physics from Université de Montréal.
+**Background:** MSc in Machine Learning from [Mila](https://mila.quebec/), BSc in Physics from Université de Montréal.
 
 ### Recent Publications
 
+- **Terminal Agents Suffice for Enterprise Automation** *(arXiv 2026)*
+- **CUA-Suite** — Massive human-annotated video demonstrations for computer-use agents *(arXiv 2026)*
 - **ColMate** — Multimodal document retrieval via contrastive late interaction *(EMNLP Industry 2025)*
 - **Reducing Hallucination in Structured Outputs via RAG** *(NAACL Industry 2024)*
 - **StarFlow** — Generating structured workflows from sketch images *(EACL 2026)*
 - **Fine-Tune an SLM or Prompt an LLM?** — Low-code workflow generation *(KDD 2025 SKnowLLM Workshop)*
 - **Just-in-time Episodic Feedback Hinter** — Improving LLM agent adaptation *(2025)*
 
-Full list on [Google Scholar](https://scholar.google.com/citations?user=O-YzTloAAAAJ)
+Full list on [Google Scholar](https://scholar.google.ca/citations?user=O-YzTloAAAAJ&hl=en)
 
 ### Connect
 
