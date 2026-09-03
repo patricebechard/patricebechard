@@ -1,6 +1,6 @@
 # Hey, I'm Patrice 👋
 
-Applied Research Scientist at [ServiceNow](https://www.servicenow.com/), working on AI agents for enterprise automation. I build systems that let large language models interact with complex business workflows, from text-to-workflow generation to IT service management auto-resolution.
+Research Scientist at [ServiceNow](https://www.servicenow.com/), working on AI agents for enterprise automation. I build systems that let large language models interact with complex business workflows, from text-to-workflow generation to IT service management auto-resolution.
 
 **Background:** MSc in Machine Learning from [Mila](https://mila.quebec/), BSc in Physics from Université de Montréal.
 
