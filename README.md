@@ -12,7 +12,7 @@ Research Scientist at [ServiceNow](https://www.servicenow.com/), working on AI a
 - **Reducing Hallucination in Structured Outputs via RAG** *(NAACL Industry 2024)*
 - **StarFlow** — Generating structured workflows from sketch images *(EACL 2026)*
 - **Fine-Tune an SLM or Prompt an LLM?** — Low-code workflow generation *(KDD 2025 SKnowLLM Workshop)*
-- **Just-in-time Episodic Feedback Hinter** — Improving LLM agent adaptation *(arXiv 2025)*
+- **JEF-Hinter** — Improving LLM agent adaptation *(arXiv 2025)*
 
 Full list on [Google Scholar](https://scholar.google.ca/citations?user=O-YzTloAAAAJ&hl=en)
 
